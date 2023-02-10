@@ -1,11 +1,8 @@
 -Hello, How are you?
--  👋 Hi, I’m @zahmoulinizar
-- 👀 I’m interested in frontends dévelopement
-- I'm a  developer in WordPress with Woocommerce
-- 🌱 I’m currently learning web and développement
-- Following links are my work history.
--  http://maisonducuivre.com.tn/ and  my Repositories and projects
+Titulaire d'une licence appliquée informatique de gestion , je suis actuellement à la recherche d’une nouvelle opportunité .
+J'ai une année d'expérience dans le domaine technologie de l'informatique. Ce métier est ma passion, car je suis une personne responsable .
+j'ai un grand sens du relationnel . J'aime  travailler en équipe.
+voici mes antécédents professionnels   http://maisonducuivre.com.tn/ 
 <!---
-zahmoulinizar/zahmoulinizar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
